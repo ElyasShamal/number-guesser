@@ -1,2 +1,3 @@
 # number-guesser
-codecademy  challenge croject
+
+codecademy Guess number project
